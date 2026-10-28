@@ -24,8 +24,6 @@
     "vite": "^6.3.1"
   },
   "dependencies": {
-    "@types/matter-js": "^0.20.2",
-    "matter-js": "^0.20.0",
     "phaser": "4.0.0",
     "terser": "^5.39.0"
   }
